@@ -18,9 +18,9 @@ and expertise to the table. The following are our key collaborators:
 
 ## Technologies Used
 
-- Frontend: React.js, Radix UI, Tailwind CSS
-- Backend: Node.js, PostgreSQL
-- Cloud: AWS (Amazon Web Services), Vercel, Supabase
+- Frontend: [React.js](https://react.dev/), [Radix UI](https://www.radix-ui.com/), [Tailwind CSS](https://tailwindcss.com/)
+- Backend: [Node.js](https://nodejs.org/), [PostgreSQL](https://www.postgresql.org/)
+- Cloud: [AWS (Amazon Web Services)](https://aws.amazon.com/), [Vercel](https://vercel.com/)
 
 ## Contact
 
