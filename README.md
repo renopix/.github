@@ -1,1 +1,1 @@
-Goto [README.md}(profile/README.md)
+Goto [README.md](profile/README.md)
