@@ -13,7 +13,7 @@ results.
 We are proud to work with a team of talented individuals who bring diverse skills 
 and expertise to the table. The following are our key collaborators:
 
-- [Fabian Jocks](https://github.com/iamfj) - Founder / Full-stack developer
+- [Fabian Jocks](https://github.com/iamfj) - Founder and Head of Engineering
 - [Sebastian Kraft](https://github.com/Helfull) - Full-stack developer
 
 ## Technologies Used
